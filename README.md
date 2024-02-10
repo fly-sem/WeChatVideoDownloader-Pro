@@ -3,7 +3,7 @@
 > 🔥🔥🔥 V2.x版本支持加密视频的下载，可到 Release 中下载更新。
 
 
-![000](https://github.com/fly-sem/WeChatVideoDownloader-Pro/assets/34882278/26c4ae78-ddf2-4b48-9201-c6dd654c41c2)
+<img src="https://github.com/fly-sem/WeChatVideoDownloader-Pro/assets/34882278/26c4ae78-ddf2-4b48-9201-c6dd654c41c" width="100" />
 
 - 支持实时捕获视频号的视频地址
 - 捕获后，可进行预览和下载
