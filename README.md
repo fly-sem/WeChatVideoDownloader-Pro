@@ -18,7 +18,7 @@
 
 ### 下载
 
-请到 Release 中进行下载：[https://github.com/lecepin/WeChatVideoDownloade](https://github.com/fly-sem/WeChatVideoDownloader-Pro)r/releases
+请到 Release 中进行下载：[(https://github.com/fly-sem/WeChatVideoDownloader-Pro/releases](https://github.com/fly-sem/WeChatVideoDownloader-Pro/releases)
 
 ---
 
