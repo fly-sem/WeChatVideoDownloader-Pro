@@ -44,3 +44,4 @@
 ![303845544-ba14748a-2aa6-4cfc-a975-21ce1e690ed5](https://github.com/fly-sem/WeChatVideoDownloader-Pro/assets/34882278/e6784d4c-f42e-4a9e-a532-b00d84c3ea68)
 
 ##“科技巨有” 公众号回复：“视频号”获得新版本下载地址。
+![wx](https://github.com/fly-sem/WeChatVideoDownloader-Pro/assets/34882278/3128cc1c-cd43-4957-9e6a-06dca2e9dcc8)
