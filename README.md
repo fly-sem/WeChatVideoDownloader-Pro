@@ -1,6 +1,7 @@
 #微信视频号下载器Pro
 > 🔥🔥🔥 V2.x版本支持加密视频专业版本的下载，可到发布中下载更新。
-> 
+>
+> ![303845544-ba14748a-2aa6-4cfc-a975-21ce1e690ed5](https://github.com/fly-sem/WeChatVideoDownloader-Pro/assets/34882278/e6784d4c-f42e-4a9e-a532-b00d84c3ea68)
 <img src="https://user-images.githubusercontent.com/11046969/169296046-513b5e3a-a688-4342-9759-eb131ef7e42f.png" width="100"/ >
 ![030](https://github.com/fly-sem/WeChatVideoDownloader-Pro/assets/34882278/3a5db1d2-5b14-4ac4-9dc0-07bce2b6605c)
 
@@ -41,7 +42,7 @@
 ---
 # ## 联系方式 “科技巨有” 公众号
 
-![303845544-ba14748a-2aa6-4cfc-a975-21ce1e690ed5](https://github.com/fly-sem/WeChatVideoDownloader-Pro/assets/34882278/e6784d4c-f42e-4a9e-a532-b00d84c3ea68)
+
 
 ##“科技巨有” 公众号回复：“视频号”获得新版本下载地址。
 ![wx](https://github.com/fly-sem/WeChatVideoDownloader-Pro/assets/34882278/3128cc1c-cd43-4957-9e6a-06dca2e9dcc8)
