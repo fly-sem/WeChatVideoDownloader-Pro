@@ -40,5 +40,7 @@
 
 ---
 # ## 联系方式 “科技巨有” 公众号
-![扫码_搜索联合传播风格-标准色版](https://github.com/fly-sem/WeChatVideoDownloader-Pro/assets/34882278/ba14748a-2aa6-4cfc-a975-21ce1e690ed5)
+
+![303845544-ba14748a-2aa6-4cfc-a975-21ce1e690ed5](https://github.com/fly-sem/WeChatVideoDownloader-Pro/assets/34882278/e6784d4c-f42e-4a9e-a532-b00d84c3ea68)
+
 ##“科技巨有” 公众号回复：“视频号”获得新版本下载地址。
